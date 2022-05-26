@@ -1,0 +1,5 @@
+CIPHER = -3
+
+ORIGINAL : "I love cryptography!"
+
+CIPHERed : "F Ilsb Zovmqldoxmev!"
